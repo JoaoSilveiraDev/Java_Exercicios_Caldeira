@@ -1,3 +1,5 @@
+
+package dias; 
 import java.util.Scanner;
 
 public class DiaDaSemana{

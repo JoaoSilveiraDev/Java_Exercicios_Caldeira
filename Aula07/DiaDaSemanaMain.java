@@ -1,3 +1,4 @@
+package dias;
 import java.util.Scanner;
 public class DiaDaSemanaMain {
     public static void main(String []args){

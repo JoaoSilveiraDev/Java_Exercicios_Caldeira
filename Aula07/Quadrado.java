@@ -1,3 +1,4 @@
+package formas;
 public class Quadrado implements Desenhavel{
     public String nomeDaFigura = "Quadrado";
     @Override
